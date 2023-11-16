@@ -1,5 +1,4 @@
 .intro {
- 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,12 +22,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: start;
-  /* background-color: aliceblue; */
-  /* width: 42vw; */
+  align-items: flex-start; /* Updated value */
   padding-left: 8rem;
   padding-top: 2rem;
 }
+
 
 .intro-contain h5 {
   font-size: 1.5rem;
