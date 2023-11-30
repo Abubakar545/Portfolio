@@ -12,7 +12,7 @@ export default function ButtonLink(props) {
         role="link"
         onClick={() => openInNewTab(props.lin)}
       >
-        Demo
+        Visit
       </button>
     </div>
   );
